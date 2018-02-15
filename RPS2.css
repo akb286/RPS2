@@ -1,0 +1,22 @@
+body {
+  font: 'Roboto', sans-serif;
+  font-size: 17px;
+  background: pink;
+}
+
+header {
+  font: 'Roboto', sans-serif;
+  background: black;
+  color: pink;
+  padding: 30px;
+  text-align: center;
+  border-bottom: 4px #000 solid;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font: 'Roboto', sans-serif;
+  color: #E612C7;
+  font-size: 40px;
+  text-align: center;
+}
